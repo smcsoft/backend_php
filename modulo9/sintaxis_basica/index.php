@@ -80,3 +80,9 @@
     ];
     //var_dump($array1);
     //var_dump($array3['v2'][1]);
+
+//? -----------------------
+//?  AMBITO O ALCANCE
+//? -----------------------
+
+    include "nombre archivo.php";
